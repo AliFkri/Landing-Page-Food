@@ -55,6 +55,32 @@
                     </div>
                 </div>
             </div>
+            <div class="col-md-4 mb-4">
+                <div class="product-card">
+                    <img src="https://cdn.yummy.co.id/content-images/images/20230916/fe74073f014c83d8dbaa93cb7e94270f.jpg?x-oss-process=image/format,webp" class="product-img" alt="Ayam Bakar Madu">
+                    <div class="p-4">
+                        <h3 class="product-title">Soto Ayam</h3>
+                        <p class="text-muted">Soto ayam dengan kuah kaldu yang kental.</p>
+                        <div class="d-flex justify-content-between align-items-center">
+                            <span class="product-price">Rp 15.000</span>
+                            <a href="/products" class="btn btn-sm btn-outline-primary">Pesan</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="product-card">
+                    <img src="https://asset.kompas.com/crops/96rHbnDkTGNa8Y-xW247623hONA=/0x0:1000x667/750x500/data/photo/2023/12/19/6580e31d4d33e.jpeg" class="product-img" alt="Ayam Bakar Madu">
+                    <div class="p-4">
+                        <h3 class="product-title">Sate Ayam</h3>
+                        <p class="text-muted">Sate ayam dengan daging ayam yang juicy.</p>
+                        <div class="d-flex justify-content-between align-items-center">
+                            <span class="product-price">Rp 35.000</span>
+                            <a href="/products" class="btn btn-sm btn-outline-primary">Pesan</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -63,11 +89,11 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-6 mb-4 mb-md-0">
-                    <img src="https://images.unsplash.com/photo-1556911220-e15b29be8c8f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" class="img-fluid rounded shadow" alt="Tentang FoodLand">
+                    <img src="https://cdn.pixabay.com/photo/2023/12/20/16/21/baking-8460297_1280.png" class="img-fluid rounded shadow" alt="Tentang FoodLand">
                 </div>
                 <div class="col-md-6">
                     <h2 class="section-title">Tentang FoodLand</h2>
-                    <p>FoodLand didirikan pada tahun 2010 dengan misi menyajikan makanan berkualitas tinggi dengan cita rasa autentik. Kami menggunakan bahan-bahan segar yang dipilih langsung dari petani lokal dan memasak dengan teknik tradisional.</p>
+                    <p>FoodLand didirikan pada tahun 2017 dengan misi menyajikan makanan berkualitas tinggi dengan cita rasa autentik. Kami menggunakan bahan-bahan segar yang dipilih langsung dari petani lokal dan memasak dengan teknik tradisional.</p>
                     <p>Setiap hidangan di FoodLand dibuat dengan penuh dedikasi dan cinta. Kami percaya bahwa makanan yang baik tidak hanya memuaskan perut, tetapi juga menyentuh hati.</p>
                     <a href="/contact" class="btn btn-primary mt-3">Pelajari Lebih Lanjut</a>
                 </div>
